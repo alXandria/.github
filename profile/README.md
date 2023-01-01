@@ -18,3 +18,5 @@ Discord: https://discord.gg/bbgVDqDk
 
 Whitepaper: https://alxandria.infura-ipfs.io/ipfs/QmW6DMakdbcJifZhRKeHcH2QGfgzAtY4Yzv7kTivZWJ5MF
 
+# Model
+![Screen Shot 2023-01-01 at 2 32 47 PM](https://user-images.githubusercontent.com/106569305/210182644-1f19707b-7f4a-4293-92cf-4eb3d634a054.png)
