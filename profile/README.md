@@ -2,9 +2,15 @@
 
 alXandria is an online, open-source, collaborative encyclopedic effort. It allows anyone to create, edit, or delete articles. It is a smart-contract on the [Juno blockchain](https://www.junonetwork.io/).
 
-# Front-End
+# Front-Ends
 
-https://alxandria.org
+**Main: https://alxandria.org**
+
+Backup: https://backup.alxandria.org/
+
+Backup2: https://alt.alxandria.org/
+
+Testnet: https://testnet.alxandria.org/
 
 Powered by [Akash Network](https://akash.network/).
 
