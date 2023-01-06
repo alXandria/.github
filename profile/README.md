@@ -20,7 +20,7 @@ Docs: https://docs.alxandria.org
 
 Twitter: https://twitter.com/alxandriacosmos
 
-Discord: https://discord.gg/bbgVDqDk
+Discord: https://discord.gg/ck5mC63kvP
 
 Whitepaper: https://alxandria.infura-ipfs.io/ipfs/QmW6DMakdbcJifZhRKeHcH2QGfgzAtY4Yzv7kTivZWJ5MF
 
